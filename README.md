@@ -15,7 +15,7 @@ Blades in the Dark uses progress clocks to escalate tension and track time-bound
 
 🌐 **[Launch App on shinyapps.io](https://mmotaferreira.shinyapps.io/Progress_Cloks_BID/)**
 
-No installation required — runs entirely in your browser.
+No installation required — runs entirely in your PC 💻 or Phone 📱 browser.
 
 ---
 
