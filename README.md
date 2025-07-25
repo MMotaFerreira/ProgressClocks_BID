@@ -1,4 +1,4 @@
-# 🔮 🗡 Blades in the Dark – Progress Clock Shiny App 🕒 🕒 
+# 🔮 🗡 Blades in the Dark – Progress Clock Shiny App 🕒
 
 A lightweight, interactive [Shiny](https://shiny.posit.co/) web app for managing **Progress Clocks** in the tabletop RPG [Blades in the Dark](https://bladesinthedark.com/).
 
@@ -13,7 +13,7 @@ Blades in the Dark uses progress clocks to escalate tension and track time-bound
 
 ## 🚀 Try it live
 
-🌐 **[Launch App on shinyapps.io](https://mmotaferreira.shinyapps.io/Progress_Cloks_BID/)**
+🌐 **[Launch App on shinyapps.io](https://mmotaferreira.shinyapps.io/Progress_Cloks_BitD/)**
 
 No installation required — runs entirely in your PC 💻 or Phone 📱 browser.
 
@@ -22,7 +22,7 @@ No installation required — runs entirely in your PC 💻 or Phone 📱 browser
 ## ✨ Features
 
 - 🎯 Create multiple clocks
-- 🔢 Choose segment count (4, 6, 8, 10, or 12)
+- 🔢 Choose segment count (3, 4, 6, 8, 10, or 12)
 - 🎨 Pick a custom color for each clock
 - ➕ Advance one segment at a time
 - 🔄 Reset clocks
