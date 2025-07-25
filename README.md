@@ -33,7 +33,7 @@ No installation required — runs entirely in your browser.
 
 ## 🖼 Example
 
-![Progress Clocks in Action](./screenshot.png)
+![Progress Clocks in Action](./Screenshot_ProgressClock.png)
 
 > _Image: Example with several custom clocks._
 
